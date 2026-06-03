@@ -58,6 +58,6 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: hexo-theme-kuri
+theme: butterfly
 deploy:
   type: ''
