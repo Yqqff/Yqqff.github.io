@@ -32,9 +32,8 @@ jobs:
       - name: Build
         run: npm run build
       - name: Install hexo-cli
-        run: |
-          npm install -g hexo-cli
-          chmod +x $(which hexo)
+        run: npm install -g hexo-cli
+            chmod +x $(which hexo)
       - name: Generate
         run: hexo generate
       - name: Upload Pages artifact
