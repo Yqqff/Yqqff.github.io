@@ -2,8 +2,8 @@
 title: 游戏设计模式——单例模式
 date: 2026.6.5
 updated:
-tags: 你也想获得技术的力量吗
-categories:
+tags: 你也想获得技术的力量吗 
+categories: 游戏设计模式
 keywords:
 description: 单例模式相关知识随记
 top_img: /img/preview.jpg
@@ -255,9 +255,9 @@ noticeOutdate:
 
 
 
-## 四：补充
+ ## 四：补充
 
-### 对于不继承Mono的单例，会存在构造函数带来的唯一性问题：
+ ### 对于不继承Mono的单例，会存在构造函数带来的唯一性问题：
 
   #### 单例类是可以被new出来的，这样产生的新实例必定破坏唯一性
   
