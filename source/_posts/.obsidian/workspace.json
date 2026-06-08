@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "26f5beb9a7aabf85",
+    "type": "split",
+    "children": [
+      {
+        "id": "865436e5352350fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b6da96e325a205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templater/Templater_blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Templater_blog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13ed751d9ff2807b",
+    "type": "split",
+    "children": [
+      {
+        "id": "526d55875f0f9035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2e2f57e611f151",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "590b0337a7718b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#想像一个情景，你需要给游戏添加音效，让不同的游戏角色拥有自己的声音，需要控制每个人用什么声音，需要在适时改变声音大小，那我们应该给每个角色都写一个切换音效，控制音量的方法吗，那太繁琐了，也不优雅，要是能用一个管理员统一管理这些音频就好了",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "666b434a08ce6591",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adc8cd42f78c3558",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4c3f6b476f9b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a70179f9a923d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "初识Stocket.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "初识Stocket 的反向链接列表"
+            }
+          },
+          {
+            "id": "80d50314a50b6b9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "初识Stocket.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "初识Stocket 的出链列表"
+            }
+          },
+          {
+            "id": "1532d5c52cdca3c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e098ee8ffe8e8ff3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a2d233070374b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "初识Stocket.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "初识Stocket 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b1b6da96e325a205",
+  "lastOpenFiles": [
+    "Templater/Templater_blog.md",
+    "Templater",
+    "Templater_blog.md",
+    "未命名",
+    "未命名.canvas",
+    "hello-world.md",
+    "未命名 1.canvas"
+  ]
+}

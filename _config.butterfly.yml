@@ -30,10 +30,10 @@ menu:
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
   theme: light
-  macStyle: false
+  macStyle: true
   # Code block height limit (unit: px)
-  height_limit: 200
-  word_wrap: true
+  height_limit: 500
+  word_wrap: false
 
   # Toolbar
   copy: true
@@ -123,7 +123,7 @@ post_meta:
     # Choose: date / relative
     date_format: date
     categories: true
-    tags: false
+    tags: true
     label: true
   post:
     # Choose: left / center
@@ -215,10 +215,10 @@ reward:
   QR_code:
     - img: /img/reward.jpeg
       link:
-      text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+      text: WeChat
+    - img: /img/zfb.jpg
+      link:
+      text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -291,8 +291,8 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
-  card_announcement:
+      li_nk: https://github.com/Yqqff
+  cardannouncement:
     enable: true
     content: This is my Blog
   card_recent_post:
